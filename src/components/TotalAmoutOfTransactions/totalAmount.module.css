@@ -1,0 +1,26 @@
+.container {
+  background-color: rgb(38, 39, 38);
+  padding: 20px;
+  color: white;
+}
+.title {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  letter-spacing: 1px;
+  background-color: rgb(84, 111, 184);
+  padding: 10px 0;
+}
+.euro {
+  letter-spacing: 1px;
+}
+.zloty {
+  letter-spacing: 1px;
+}
+
+.icon {
+  font-size: 13px;
+  margin-left: 5px;
+}

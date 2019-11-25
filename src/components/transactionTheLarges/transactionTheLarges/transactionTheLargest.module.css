@@ -1,0 +1,35 @@
+.container {
+  background-color: rgb(38, 39, 38);
+  padding: 20px;
+  color: white;
+}
+.title {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.transaction_title {
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgb(193, 209, 101);
+  background-color: rgba(63, 170, 202, 0.795);
+  padding: 10px 0;
+}
+
+.paragrath {
+  letter-spacing: 1px;
+  background-color: rgba(63, 170, 202, 0.795);
+  padding: 10px 0;
+}
+
+.date {
+  font-size: 12px;
+  width: 100%;
+  background-color: rgba(63, 170, 202, 0.795);
+  padding: 10px 0;
+}
+.icon {
+  font-size: 13px;
+  margin-left: 5px;
+}
